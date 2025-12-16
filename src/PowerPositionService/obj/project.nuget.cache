@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b8RRH74EpPmV0WjAn2TXW2v+R5GnG0zSlTyEEF4eLSMj9ZSk08vTFiJukZLVSPBrE6m1lI4MtSZ7aHhjwjnMvw==",
+  "dgSpecHash": "sb5ooSyMre9XBCXCfjnxYGKws7Ya/izOT4zv29ZIJD051t39IijeHhX17LnvGutAqZHHxc4FrU5dxTLR+Ovc3Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andol\\Downloads\\TradingService2\\PowerPositionService\\PowerPositionService\\src\\PowerPositionService\\PowerPositionService.csproj",
+  "projectFilePath": "C:\\temp3\\PowerPositionService\\src\\PowerPositionService\\PowerPositionService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andol\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
     "C:\\Users\\andol\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NUGXHM5tVymraO6Xs8x9AFnv1K70WlcPowm8WFDPnUrLzLXoKD+fG+t5KzlxNS0b9PUEwSr5K2sYcmc2bqH9hg==",
+  "dgSpecHash": "vIbMKd0H2s4vPB2ry6y2Ue40wSTNDR1n9WQR5/vJwpE4q+ZXT9Zf5zDHw1iIN6upHYEgecAKRVxnBc+79zk0Yg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andol\\Downloads\\TradingService2\\PowerPositionService\\PowerPositionService\\src\\PowerPositionService.Tests\\PowerPositionService.Tests.csproj",
+  "projectFilePath": "C:\\temp3\\PowerPositionService\\src\\PowerPositionService.Tests\\PowerPositionService.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andol\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\andol\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",

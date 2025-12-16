@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andol\\Downloads\\TradingService2\\PowerPositionService\\PowerPositionService\\src\\PowerPositionService\\PowerPositionService.csproj": {}
+    "C:\\temp3\\PowerPositionService\\src\\PowerPositionService\\PowerPositionService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andol\\Downloads\\TradingService2\\PowerPositionService\\PowerPositionService\\src\\PowerPositionService.Core\\PowerPositionService.Core.csproj": {
+    "C:\\temp3\\PowerPositionService\\src\\PowerPositionService.Core\\PowerPositionService.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andol\\Downloads\\TradingService2\\PowerPositionService\\PowerPositionService\\src\\PowerPositionService.Core\\PowerPositionService.Core.csproj",
+        "projectUniqueName": "C:\\temp3\\PowerPositionService\\src\\PowerPositionService.Core\\PowerPositionService.Core.csproj",
         "projectName": "PowerPositionService.Core",
-        "projectPath": "C:\\Users\\andol\\Downloads\\TradingService2\\PowerPositionService\\PowerPositionService\\src\\PowerPositionService.Core\\PowerPositionService.Core.csproj",
+        "projectPath": "C:\\temp3\\PowerPositionService\\src\\PowerPositionService.Core\\PowerPositionService.Core.csproj",
         "packagesPath": "C:\\Users\\andol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andol\\Downloads\\TradingService2\\PowerPositionService\\PowerPositionService\\src\\PowerPositionService.Core\\obj\\",
+        "outputPath": "C:\\temp3\\PowerPositionService\\src\\PowerPositionService.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -61,14 +61,14 @@
         }
       }
     },
-    "C:\\Users\\andol\\Downloads\\TradingService2\\PowerPositionService\\PowerPositionService\\src\\PowerPositionService\\PowerPositionService.csproj": {
+    "C:\\temp3\\PowerPositionService\\src\\PowerPositionService\\PowerPositionService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andol\\Downloads\\TradingService2\\PowerPositionService\\PowerPositionService\\src\\PowerPositionService\\PowerPositionService.csproj",
+        "projectUniqueName": "C:\\temp3\\PowerPositionService\\src\\PowerPositionService\\PowerPositionService.csproj",
         "projectName": "PowerPositionService",
-        "projectPath": "C:\\Users\\andol\\Downloads\\TradingService2\\PowerPositionService\\PowerPositionService\\src\\PowerPositionService\\PowerPositionService.csproj",
+        "projectPath": "C:\\temp3\\PowerPositionService\\src\\PowerPositionService\\PowerPositionService.csproj",
         "packagesPath": "C:\\Users\\andol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andol\\Downloads\\TradingService2\\PowerPositionService\\PowerPositionService\\src\\PowerPositionService\\obj\\",
+        "outputPath": "C:\\temp3\\PowerPositionService\\src\\PowerPositionService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -88,8 +88,8 @@
           "net48": {
             "targetAlias": "net48",
             "projectReferences": {
-              "C:\\Users\\andol\\Downloads\\TradingService2\\PowerPositionService\\PowerPositionService\\src\\PowerPositionService.Core\\PowerPositionService.Core.csproj": {
-                "projectPath": "C:\\Users\\andol\\Downloads\\TradingService2\\PowerPositionService\\PowerPositionService\\src\\PowerPositionService.Core\\PowerPositionService.Core.csproj"
+              "C:\\temp3\\PowerPositionService\\src\\PowerPositionService.Core\\PowerPositionService.Core.csproj": {
+                "projectPath": "C:\\temp3\\PowerPositionService\\src\\PowerPositionService.Core\\PowerPositionService.Core.csproj"
               }
             }
           }

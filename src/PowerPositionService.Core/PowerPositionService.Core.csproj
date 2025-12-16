@@ -14,7 +14,7 @@
 
   <ItemGroup>
     <Reference Include="PowerService">
-      <HintPath>..\..\..\..\..\PowerService.dll</HintPath>
+      <HintPath>..\..\..\..\Users\andol\Downloads\PowerService.dll</HintPath>
     </Reference>
   </ItemGroup>
 

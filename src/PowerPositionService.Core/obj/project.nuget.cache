@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PfcHhVQNAMQo8w1UhhHe1+Xg9g+RALufvfJ9I5jW0BGfQz6JY+GZhIED8SskquSMPYIxV2FgzzpmweBN1rUdug==",
+  "dgSpecHash": "aWyWK2sK5uGCCK08socbNT3qKOQbTvqU4E6TLpFzGk6W4aCYMvYM1w6LlvPfoT+12UVw5JYqoLAacvvkayjsPg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andol\\Downloads\\TradingService2\\PowerPositionService\\PowerPositionService\\src\\PowerPositionService.Core\\PowerPositionService.Core.csproj",
+  "projectFilePath": "C:\\temp3\\PowerPositionService\\src\\PowerPositionService.Core\\PowerPositionService.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andol\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
     "C:\\Users\\andol\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",

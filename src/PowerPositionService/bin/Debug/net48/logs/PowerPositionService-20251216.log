@@ -24,3 +24,28 @@
 2025-12-16 10:07:23.181 +00:00 [INF] Extract complete. Report saved to: C:\PowerPositionReports\PowerPosition_20251216_1007.csv
 2025-12-16 10:07:23.181 +00:00 [INF] Power position extract completed successfully on attempt 1
 2025-12-16 10:07:23.183 +00:00 [INF] Extract completed successfully. Duration: 177.15560000000002ms
+2025-12-16 10:50:10.053 +00:00 [INF] Starting Power Position Service
+2025-12-16 10:50:10.454 +00:00 [INF] Configuration loaded - Extract interval: 60 minutes, Output path: C:\PowerPositionReports
+2025-12-16 10:50:10.479 +00:00 [DBG] Hosting starting
+2025-12-16 10:50:10.502 +00:00 [INF] Power Position Worker starting. Extract interval: 60 minutes
+2025-12-16 10:50:10.502 +00:00 [INF] Running initial extract on service start
+2025-12-16 10:50:10.502 +00:00 [INF] Starting scheduled extract at "2025-12-16T10:50:10.5022011" (London time)
+2025-12-16 10:50:10.511 +00:00 [INF] Starting power position extract at "2025-12-16T10:50:10.5112281" (London time)
+2025-12-16 10:50:10.511 +00:00 [DBG] Fetching trades for date: "2025-12-16T00:00:00.0000000"
+2025-12-16 10:50:10.511 +00:00 [DBG] Fetching trades for date: "2025-12-16T00:00:00.0000000"
+2025-12-16 10:50:10.536 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-16 10:50:10.536 +00:00 [INF] Hosting environment: Production
+2025-12-16 10:50:10.538 +00:00 [INF] Content root path: C:\temp3\PowerPositionService\src\PowerPositionService\bin\Debug\net48
+2025-12-16 10:50:10.540 +00:00 [DBG] Hosting started
+2025-12-16 10:50:12.159 +00:00 [DBG] Retrieved 6 trades from PowerService
+2025-12-16 10:50:12.160 +00:00 [DBG] Retrieved 6 trades
+2025-12-16 10:50:12.161 +00:00 [DBG] Aggregating trades
+2025-12-16 10:50:12.164 +00:00 [DBG] Aggregating 6 trades
+2025-12-16 10:50:12.171 +00:00 [DBG] Aggregation complete. Generated 24 hourly positions
+2025-12-16 10:50:12.173 +00:00 [DBG] Aggregated into 24 hourly positions
+2025-12-16 10:50:12.174 +00:00 [DBG] Writing CSV report
+2025-12-16 10:50:12.177 +00:00 [INF] Writing power position report to C:\PowerPositionReports\PowerPosition_20251216_1050.csv
+2025-12-16 10:50:12.179 +00:00 [INF] Successfully wrote 24 positions to C:\PowerPositionReports\PowerPosition_20251216_1050.csv
+2025-12-16 10:50:12.179 +00:00 [INF] Extract complete. Report saved to: C:\PowerPositionReports\PowerPosition_20251216_1050.csv
+2025-12-16 10:50:12.181 +00:00 [INF] Power position extract completed successfully on attempt 1
+2025-12-16 10:50:12.182 +00:00 [INF] Extract completed successfully. Duration: 1679.8957ms
