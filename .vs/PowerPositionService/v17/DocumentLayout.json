@@ -1,0 +1,368 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andol\\Downloads\\TradingService2\\PowerPositionService\\PowerPositionService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|src\\PowerPositionService.Tests\\PowerPositionService.Tests.csproj|c:\\users\\andol\\downloads\\tradingservice2\\powerpositionservice\\powerpositionservice\\src\\powerpositionservice.tests\\powerpositionsettingstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|src\\PowerPositionService.Tests\\PowerPositionService.Tests.csproj|solutionrelative:src\\powerpositionservice.tests\\powerpositionsettingstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|src\\PowerPositionService.Tests\\PowerPositionService.Tests.csproj|c:\\users\\andol\\downloads\\tradingservice2\\powerpositionservice\\powerpositionservice\\src\\powerpositionservice.tests\\powerpositionextractortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|src\\PowerPositionService.Tests\\PowerPositionService.Tests.csproj|solutionrelative:src\\powerpositionservice.tests\\powerpositionextractortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|src\\PowerPositionService.Tests\\PowerPositionService.Tests.csproj|c:\\users\\andol\\downloads\\tradingservice2\\powerpositionservice\\powerpositionservice\\src\\powerpositionservice.tests\\datetimeprovidertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|src\\PowerPositionService.Tests\\PowerPositionService.Tests.csproj|solutionrelative:src\\powerpositionservice.tests\\datetimeprovidertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|src\\PowerPositionService.Tests\\PowerPositionService.Tests.csproj|c:\\users\\andol\\downloads\\tradingservice2\\powerpositionservice\\powerpositionservice\\src\\powerpositionservice.tests\\csvreportwritertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|src\\PowerPositionService.Tests\\PowerPositionService.Tests.csproj|solutionrelative:src\\powerpositionservice.tests\\csvreportwritertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|src\\PowerPositionService.Tests\\PowerPositionService.Tests.csproj|c:\\users\\andol\\downloads\\tradingservice2\\powerpositionservice\\powerpositionservice\\src\\powerpositionservice.tests\\aggregatedpowerpositiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|src\\PowerPositionService.Tests\\PowerPositionService.Tests.csproj|solutionrelative:src\\powerpositionservice.tests\\aggregatedpowerpositiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|src\\PowerPositionService\\PowerPositionService.csproj|c:\\users\\andol\\downloads\\tradingservice2\\powerpositionservice\\powerpositionservice\\src\\powerpositionservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|src\\PowerPositionService\\PowerPositionService.csproj|solutionrelative:src\\powerpositionservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|src\\PowerPositionService\\PowerPositionService.csproj|c:\\users\\andol\\downloads\\tradingservice2\\powerpositionservice\\powerpositionservice\\src\\powerpositionservice\\powerpositionsettingsvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|src\\PowerPositionService\\PowerPositionService.csproj|solutionrelative:src\\powerpositionservice\\powerpositionsettingsvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|src\\PowerPositionService\\PowerPositionService.csproj|c:\\users\\andol\\downloads\\tradingservice2\\powerpositionservice\\powerpositionservice\\src\\powerpositionservice\\powerpositionworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|src\\PowerPositionService\\PowerPositionService.csproj|solutionrelative:src\\powerpositionservice\\powerpositionworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C3D4E5-F6A7-8901-BCDE-F12345678901}|src\\PowerPositionService.Core\\PowerPositionService.Core.csproj|c:\\users\\andol\\downloads\\tradingservice2\\powerpositionservice\\powerpositionservice\\src\\powerpositionservice.core\\interfaces\\itradeaggregator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C3D4E5-F6A7-8901-BCDE-F12345678901}|src\\PowerPositionService.Core\\PowerPositionService.Core.csproj|solutionrelative:src\\powerpositionservice.core\\interfaces\\itradeaggregator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C3D4E5-F6A7-8901-BCDE-F12345678901}|src\\PowerPositionService.Core\\PowerPositionService.Core.csproj|c:\\users\\andol\\downloads\\tradingservice2\\powerpositionservice\\powerpositionservice\\src\\powerpositionservice.core\\interfaces\\ipowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C3D4E5-F6A7-8901-BCDE-F12345678901}|src\\PowerPositionService.Core\\PowerPositionService.Core.csproj|solutionrelative:src\\powerpositionservice.core\\interfaces\\ipowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C3D4E5-F6A7-8901-BCDE-F12345678901}|src\\PowerPositionService.Core\\PowerPositionService.Core.csproj|c:\\users\\andol\\downloads\\tradingservice2\\powerpositionservice\\powerpositionservice\\src\\powerpositionservice.core\\interfaces\\ipowerpositionextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C3D4E5-F6A7-8901-BCDE-F12345678901}|src\\PowerPositionService.Core\\PowerPositionService.Core.csproj|solutionrelative:src\\powerpositionservice.core\\interfaces\\ipowerpositionextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C3D4E5-F6A7-8901-BCDE-F12345678901}|src\\PowerPositionService.Core\\PowerPositionService.Core.csproj|c:\\users\\andol\\downloads\\tradingservice2\\powerpositionservice\\powerpositionservice\\src\\powerpositionservice.core\\interfaces\\idatetimeprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C3D4E5-F6A7-8901-BCDE-F12345678901}|src\\PowerPositionService.Core\\PowerPositionService.Core.csproj|solutionrelative:src\\powerpositionservice.core\\interfaces\\idatetimeprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C3D4E5-F6A7-8901-BCDE-F12345678901}|src\\PowerPositionService.Core\\PowerPositionService.Core.csproj|c:\\users\\andol\\downloads\\tradingservice2\\powerpositionservice\\powerpositionservice\\src\\powerpositionservice.core\\models\\powerperiod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C3D4E5-F6A7-8901-BCDE-F12345678901}|src\\PowerPositionService.Core\\PowerPositionService.Core.csproj|solutionrelative:src\\powerpositionservice.core\\models\\powerperiod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C3D4E5-F6A7-8901-BCDE-F12345678901}|src\\PowerPositionService.Core\\PowerPositionService.Core.csproj|c:\\users\\andol\\downloads\\tradingservice2\\powerpositionservice\\powerpositionservice\\src\\powerpositionservice.core\\models\\aggregatedpowerposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C3D4E5-F6A7-8901-BCDE-F12345678901}|src\\PowerPositionService.Core\\PowerPositionService.Core.csproj|solutionrelative:src\\powerpositionservice.core\\models\\aggregatedpowerposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C3D4E5-F6A7-8901-BCDE-F12345678901}|src\\PowerPositionService.Core\\PowerPositionService.Core.csproj|c:\\users\\andol\\downloads\\tradingservice2\\powerpositionservice\\powerpositionservice\\src\\powerpositionservice.core\\services\\tradeaggregator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C3D4E5-F6A7-8901-BCDE-F12345678901}|src\\PowerPositionService.Core\\PowerPositionService.Core.csproj|solutionrelative:src\\powerpositionservice.core\\services\\tradeaggregator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C3D4E5-F6A7-8901-BCDE-F12345678901}|src\\PowerPositionService.Core\\PowerPositionService.Core.csproj|c:\\users\\andol\\downloads\\tradingservice2\\powerpositionservice\\powerpositionservice\\src\\powerpositionservice.core\\services\\powerserviceadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C3D4E5-F6A7-8901-BCDE-F12345678901}|src\\PowerPositionService.Core\\PowerPositionService.Core.csproj|solutionrelative:src\\powerpositionservice.core\\services\\powerserviceadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C3D4E5-F6A7-8901-BCDE-F12345678901}|src\\PowerPositionService.Core\\PowerPositionService.Core.csproj|c:\\users\\andol\\downloads\\tradingservice2\\powerpositionservice\\powerpositionservice\\src\\powerpositionservice.core\\services\\csvreportwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C3D4E5-F6A7-8901-BCDE-F12345678901}|src\\PowerPositionService.Core\\PowerPositionService.Core.csproj|solutionrelative:src\\powerpositionservice.core\\services\\csvreportwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C3D4E5-F6A7-8901-BCDE-F12345678901}|src\\PowerPositionService.Core\\PowerPositionService.Core.csproj|c:\\users\\andol\\downloads\\tradingservice2\\powerpositionservice\\powerpositionservice\\src\\powerpositionservice.core\\services\\datetimeprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C3D4E5-F6A7-8901-BCDE-F12345678901}|src\\PowerPositionService.Core\\PowerPositionService.Core.csproj|solutionrelative:src\\powerpositionservice.core\\services\\datetimeprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C3D4E5-F6A7-8901-BCDE-F12345678901}|src\\PowerPositionService.Core\\PowerPositionService.Core.csproj|c:\\users\\andol\\downloads\\tradingservice2\\powerpositionservice\\powerpositionservice\\src\\powerpositionservice.core\\services\\powerpositionextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C3D4E5-F6A7-8901-BCDE-F12345678901}|src\\PowerPositionService.Core\\PowerPositionService.Core.csproj|solutionrelative:src\\powerpositionservice.core\\services\\powerpositionextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C3D4E5-F6A7-8901-BCDE-F12345678901}|src\\PowerPositionService.Core\\PowerPositionService.Core.csproj|c:\\users\\andol\\downloads\\tradingservice2\\powerpositionservice\\powerpositionservice\\src\\powerpositionservice.core\\models\\powertrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C3D4E5-F6A7-8901-BCDE-F12345678901}|src\\PowerPositionService.Core\\PowerPositionService.Core.csproj|solutionrelative:src\\powerpositionservice.core\\models\\powertrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PowerPositionSettingsTests.cs",
+              "DocumentMoniker": "C:\\Users\\andol\\Downloads\\TradingService2\\PowerPositionService\\PowerPositionService\\src\\PowerPositionService.Tests\\PowerPositionSettingsTests.cs",
+              "RelativeDocumentMoniker": "src\\PowerPositionService.Tests\\PowerPositionSettingsTests.cs",
+              "ToolTip": "C:\\Users\\andol\\Downloads\\TradingService2\\PowerPositionService\\PowerPositionService\\src\\PowerPositionService.Tests\\PowerPositionSettingsTests.cs",
+              "RelativeToolTip": "src\\PowerPositionService.Tests\\PowerPositionSettingsTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T10:19:11.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PowerPositionExtractorTests.cs",
+              "DocumentMoniker": "C:\\Users\\andol\\Downloads\\TradingService2\\PowerPositionService\\PowerPositionService\\src\\PowerPositionService.Tests\\PowerPositionExtractorTests.cs",
+              "RelativeDocumentMoniker": "src\\PowerPositionService.Tests\\PowerPositionExtractorTests.cs",
+              "ToolTip": "C:\\Users\\andol\\Downloads\\TradingService2\\PowerPositionService\\PowerPositionService\\src\\PowerPositionService.Tests\\PowerPositionExtractorTests.cs",
+              "RelativeToolTip": "src\\PowerPositionService.Tests\\PowerPositionExtractorTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T10:18:59.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AggregatedPowerPositionTests.cs",
+              "DocumentMoniker": "C:\\Users\\andol\\Downloads\\TradingService2\\PowerPositionService\\PowerPositionService\\src\\PowerPositionService.Tests\\AggregatedPowerPositionTests.cs",
+              "RelativeDocumentMoniker": "src\\PowerPositionService.Tests\\AggregatedPowerPositionTests.cs",
+              "ToolTip": "C:\\Users\\andol\\Downloads\\TradingService2\\PowerPositionService\\PowerPositionService\\src\\PowerPositionService.Tests\\AggregatedPowerPositionTests.cs",
+              "RelativeToolTip": "src\\PowerPositionService.Tests\\AggregatedPowerPositionTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T10:18:41.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andol\\Downloads\\TradingService2\\PowerPositionService\\PowerPositionService\\src\\PowerPositionService\\Program.cs",
+              "RelativeDocumentMoniker": "src\\PowerPositionService\\Program.cs",
+              "ToolTip": "C:\\Users\\andol\\Downloads\\TradingService2\\PowerPositionService\\PowerPositionService\\src\\PowerPositionService\\Program.cs",
+              "RelativeToolTip": "src\\PowerPositionService\\Program.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T10:18:08.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PowerPositionSettingsValidator.cs",
+              "DocumentMoniker": "C:\\Users\\andol\\Downloads\\TradingService2\\PowerPositionService\\PowerPositionService\\src\\PowerPositionService\\PowerPositionSettingsValidator.cs",
+              "RelativeDocumentMoniker": "src\\PowerPositionService\\PowerPositionSettingsValidator.cs",
+              "ToolTip": "C:\\Users\\andol\\Downloads\\TradingService2\\PowerPositionService\\PowerPositionService\\src\\PowerPositionService\\PowerPositionSettingsValidator.cs",
+              "RelativeToolTip": "src\\PowerPositionService\\PowerPositionSettingsValidator.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T10:17:59.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PowerPositionWorker.cs",
+              "DocumentMoniker": "C:\\Users\\andol\\Downloads\\TradingService2\\PowerPositionService\\PowerPositionService\\src\\PowerPositionService\\PowerPositionWorker.cs",
+              "RelativeDocumentMoniker": "src\\PowerPositionService\\PowerPositionWorker.cs",
+              "ToolTip": "C:\\Users\\andol\\Downloads\\TradingService2\\PowerPositionService\\PowerPositionService\\src\\PowerPositionService\\PowerPositionWorker.cs",
+              "RelativeToolTip": "src\\PowerPositionService\\PowerPositionWorker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T10:17:19.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITradeAggregator.cs",
+              "DocumentMoniker": "C:\\Users\\andol\\Downloads\\TradingService2\\PowerPositionService\\PowerPositionService\\src\\PowerPositionService.Core\\Interfaces\\ITradeAggregator.cs",
+              "RelativeDocumentMoniker": "src\\PowerPositionService.Core\\Interfaces\\ITradeAggregator.cs",
+              "ToolTip": "C:\\Users\\andol\\Downloads\\TradingService2\\PowerPositionService\\PowerPositionService\\src\\PowerPositionService.Core\\Interfaces\\ITradeAggregator.cs",
+              "RelativeToolTip": "src\\PowerPositionService.Core\\Interfaces\\ITradeAggregator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T10:17:06.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPowerService.cs",
+              "DocumentMoniker": "C:\\Users\\andol\\Downloads\\TradingService2\\PowerPositionService\\PowerPositionService\\src\\PowerPositionService.Core\\Interfaces\\IPowerService.cs",
+              "RelativeDocumentMoniker": "src\\PowerPositionService.Core\\Interfaces\\IPowerService.cs",
+              "ToolTip": "C:\\Users\\andol\\Downloads\\TradingService2\\PowerPositionService\\PowerPositionService\\src\\PowerPositionService.Core\\Interfaces\\IPowerService.cs",
+              "RelativeToolTip": "src\\PowerPositionService.Core\\Interfaces\\IPowerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T10:16:56.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CsvReportWriterTests.cs",
+              "DocumentMoniker": "C:\\Users\\andol\\Downloads\\TradingService2\\PowerPositionService\\PowerPositionService\\src\\PowerPositionService.Tests\\CsvReportWriterTests.cs",
+              "RelativeDocumentMoniker": "src\\PowerPositionService.Tests\\CsvReportWriterTests.cs",
+              "ToolTip": "C:\\Users\\andol\\Downloads\\TradingService2\\PowerPositionService\\PowerPositionService\\src\\PowerPositionService.Tests\\CsvReportWriterTests.cs",
+              "RelativeToolTip": "src\\PowerPositionService.Tests\\CsvReportWriterTests.cs",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAAAA8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T10:09:21.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DateTimeProviderTests.cs",
+              "DocumentMoniker": "C:\\Users\\andol\\Downloads\\TradingService2\\PowerPositionService\\PowerPositionService\\src\\PowerPositionService.Tests\\DateTimeProviderTests.cs",
+              "RelativeDocumentMoniker": "src\\PowerPositionService.Tests\\DateTimeProviderTests.cs",
+              "ToolTip": "C:\\Users\\andol\\Downloads\\TradingService2\\PowerPositionService\\PowerPositionService\\src\\PowerPositionService.Tests\\DateTimeProviderTests.cs",
+              "RelativeToolTip": "src\\PowerPositionService.Tests\\DateTimeProviderTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T10:09:08.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IPowerPositionExtractor.cs",
+              "DocumentMoniker": "C:\\Users\\andol\\Downloads\\TradingService2\\PowerPositionService\\PowerPositionService\\src\\PowerPositionService.Core\\Interfaces\\IPowerPositionExtractor.cs",
+              "RelativeDocumentMoniker": "src\\PowerPositionService.Core\\Interfaces\\IPowerPositionExtractor.cs",
+              "ToolTip": "C:\\Users\\andol\\Downloads\\TradingService2\\PowerPositionService\\PowerPositionService\\src\\PowerPositionService.Core\\Interfaces\\IPowerPositionExtractor.cs",
+              "RelativeToolTip": "src\\PowerPositionService.Core\\Interfaces\\IPowerPositionExtractor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T10:16:45.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IDateTimeProvider.cs",
+              "DocumentMoniker": "C:\\Users\\andol\\Downloads\\TradingService2\\PowerPositionService\\PowerPositionService\\src\\PowerPositionService.Core\\Interfaces\\IDateTimeProvider.cs",
+              "RelativeDocumentMoniker": "src\\PowerPositionService.Core\\Interfaces\\IDateTimeProvider.cs",
+              "ToolTip": "C:\\Users\\andol\\Downloads\\TradingService2\\PowerPositionService\\PowerPositionService\\src\\PowerPositionService.Core\\Interfaces\\IDateTimeProvider.cs",
+              "RelativeToolTip": "src\\PowerPositionService.Core\\Interfaces\\IDateTimeProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T10:16:28.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TradeAggregator.cs",
+              "DocumentMoniker": "C:\\Users\\andol\\Downloads\\TradingService2\\PowerPositionService\\PowerPositionService\\src\\PowerPositionService.Core\\Services\\TradeAggregator.cs",
+              "RelativeDocumentMoniker": "src\\PowerPositionService.Core\\Services\\TradeAggregator.cs",
+              "ToolTip": "C:\\Users\\andol\\Downloads\\TradingService2\\PowerPositionService\\PowerPositionService\\src\\PowerPositionService.Core\\Services\\TradeAggregator.cs",
+              "RelativeToolTip": "src\\PowerPositionService.Core\\Services\\TradeAggregator.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAE8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T10:15:17.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CsvReportWriter.cs",
+              "DocumentMoniker": "C:\\Users\\andol\\Downloads\\TradingService2\\PowerPositionService\\PowerPositionService\\src\\PowerPositionService.Core\\Services\\CsvReportWriter.cs",
+              "RelativeDocumentMoniker": "src\\PowerPositionService.Core\\Services\\CsvReportWriter.cs",
+              "ToolTip": "C:\\Users\\andol\\Downloads\\TradingService2\\PowerPositionService\\PowerPositionService\\src\\PowerPositionService.Core\\Services\\CsvReportWriter.cs",
+              "RelativeToolTip": "src\\PowerPositionService.Core\\Services\\CsvReportWriter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T10:14:22.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DateTimeProvider.cs",
+              "DocumentMoniker": "C:\\Users\\andol\\Downloads\\TradingService2\\PowerPositionService\\PowerPositionService\\src\\PowerPositionService.Core\\Services\\DateTimeProvider.cs",
+              "RelativeDocumentMoniker": "src\\PowerPositionService.Core\\Services\\DateTimeProvider.cs",
+              "ToolTip": "C:\\Users\\andol\\Downloads\\TradingService2\\PowerPositionService\\PowerPositionService\\src\\PowerPositionService.Core\\Services\\DateTimeProvider.cs",
+              "RelativeToolTip": "src\\PowerPositionService.Core\\Services\\DateTimeProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T10:14:05.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PowerPositionExtractor.cs",
+              "DocumentMoniker": "C:\\Users\\andol\\Downloads\\TradingService2\\PowerPositionService\\PowerPositionService\\src\\PowerPositionService.Core\\Services\\PowerPositionExtractor.cs",
+              "RelativeDocumentMoniker": "src\\PowerPositionService.Core\\Services\\PowerPositionExtractor.cs",
+              "ToolTip": "C:\\Users\\andol\\Downloads\\TradingService2\\PowerPositionService\\PowerPositionService\\src\\PowerPositionService.Core\\Services\\PowerPositionExtractor.cs",
+              "RelativeToolTip": "src\\PowerPositionService.Core\\Services\\PowerPositionExtractor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T10:11:32.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PowerPeriod.cs",
+              "DocumentMoniker": "C:\\Users\\andol\\Downloads\\TradingService2\\PowerPositionService\\PowerPositionService\\src\\PowerPositionService.Core\\Models\\PowerPeriod.cs",
+              "RelativeDocumentMoniker": "src\\PowerPositionService.Core\\Models\\PowerPeriod.cs",
+              "ToolTip": "C:\\Users\\andol\\Downloads\\TradingService2\\PowerPositionService\\PowerPositionService\\src\\PowerPositionService.Core\\Models\\PowerPeriod.cs",
+              "RelativeToolTip": "src\\PowerPositionService.Core\\Models\\PowerPeriod.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T09:54:08.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AggregatedPowerPosition.cs",
+              "DocumentMoniker": "C:\\Users\\andol\\Downloads\\TradingService2\\PowerPositionService\\PowerPositionService\\src\\PowerPositionService.Core\\Models\\AggregatedPowerPosition.cs",
+              "RelativeDocumentMoniker": "src\\PowerPositionService.Core\\Models\\AggregatedPowerPosition.cs",
+              "ToolTip": "C:\\Users\\andol\\Downloads\\TradingService2\\PowerPositionService\\PowerPositionService\\src\\PowerPositionService.Core\\Models\\AggregatedPowerPosition.cs",
+              "RelativeToolTip": "src\\PowerPositionService.Core\\Models\\AggregatedPowerPosition.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T09:54:04.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PowerServiceAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\andol\\Downloads\\TradingService2\\PowerPositionService\\PowerPositionService\\src\\PowerPositionService.Core\\Services\\PowerServiceAdapter.cs",
+              "RelativeDocumentMoniker": "src\\PowerPositionService.Core\\Services\\PowerServiceAdapter.cs",
+              "ToolTip": "C:\\Users\\andol\\Downloads\\TradingService2\\PowerPositionService\\PowerPositionService\\src\\PowerPositionService.Core\\Services\\PowerServiceAdapter.cs",
+              "RelativeToolTip": "src\\PowerPositionService.Core\\Services\\PowerServiceAdapter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T09:45:18.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PowerTrade.cs",
+              "DocumentMoniker": "C:\\Users\\andol\\Downloads\\TradingService2\\PowerPositionService\\PowerPositionService\\src\\PowerPositionService.Core\\Models\\PowerTrade.cs",
+              "RelativeDocumentMoniker": "src\\PowerPositionService.Core\\Models\\PowerTrade.cs",
+              "ToolTip": "C:\\Users\\andol\\Downloads\\TradingService2\\PowerPositionService\\PowerPositionService\\src\\PowerPositionService.Core\\Models\\PowerTrade.cs",
+              "RelativeToolTip": "src\\PowerPositionService.Core\\Models\\PowerTrade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T09:44:50.109Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
